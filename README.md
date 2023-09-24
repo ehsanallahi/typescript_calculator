@@ -49,7 +49,7 @@ Follow me on [GitHub](https://github.com/ehsanallahi) for more exciting projects
 
 ## Credits
 
-This calculator is brought to you by [Ehsan Allahi](https://www.linkedin.com/in/ehsanallahiofficial) and is available as an open-source project on GitHub.
+This calculator was developed by [Ehsan Allahi](https://www.linkedin.com/in/ehsanallahiofficial) and is available as an open-source project on GitHub.
 
 ## License
 
