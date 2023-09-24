@@ -1,9 +1,12 @@
 {
-  "name": "typescript_calculator",
-  "version": "1.0.0",
+  "name": "ehsanallahi-calculator",
+  "version": "1.0.2",
   "description": "simple comand line calculator with node and typescript",
   "main": "index.js",
   "type": "module",
+  "bin": {
+    "ts-calculator": "dist/index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,6 +15,7 @@
   "dependencies": {
     "chalk": "^5.3.0",
     "chalk-animation": "^2.0.3",
+    "ehsanallahi-calculator": "^1.0.2",
     "inquirer": "^9.2.11"
   },
   "devDependencies": {
