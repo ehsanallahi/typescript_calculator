@@ -1,6 +1,6 @@
 # TypeScript Calculator
 
-![TypeScript Calculator Logo](calculator-logo.png)
+![TypeScript Calculator Logo](calculator-logo.PNG)
 
 Welcome to the TypeScript Calculator, a simple yet powerful command-line calculator built with TypeScript.
 
